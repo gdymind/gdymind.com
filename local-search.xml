@@ -4,24 +4,36 @@
   
   
   <entry>
-    <title>&lt;在唐诗里孤独漫步&gt;笔记</title>
-    <link href="/2021/03/18/%E5%9C%A8%E5%94%90%E8%AF%97%E9%87%8C%E5%AD%A4%E7%8B%AC%E6%BC%AB%E6%AD%A5-%E7%AC%94%E8%AE%B0/"/>
-    <url>/2021/03/18/%E5%9C%A8%E5%94%90%E8%AF%97%E9%87%8C%E5%AD%A4%E7%8B%AC%E6%BC%AB%E6%AD%A5-%E7%AC%94%E8%AE%B0/</url>
+    <title>Kubernetes从零开始</title>
+    <link href="/2021/04/24/Kubernetes%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B/"/>
+    <url>/2021/04/24/Kubernetes%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<p><em>本篇记录本人学习Kubernetes的全过程。</em></p><hr><h2 id="Kubernetes是什么？"><a href="#Kubernetes是什么？" class="headerlink" title="Kubernetes是什么？"></a>Kubernetes是什么？</h2><p>Kubernetes是用来管理<strong>container</strong>的，container和虚拟机（VM）功能类似，但是更加轻量。</p><p>Similar to a VM, a container has its own filesystem, share of CPU, memory, process space, and more. As they are decoupled from the underlying infrastructure, they are portable across clouds and OS distributions.</p><p>各个部署方式的示意图如下：</p><p><img src="../img/image-20210425173818586.png" alt="image-20210425173818586"></p>]]></content>
     
     
+    <categories>
+      
+      <category>编程</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>编程</tag>
+      
+    </tags>
     
   </entry>
   
   
   
   <entry>
-    <title>一个故事</title>
-    <link href="/2021/02/28/%E4%B8%80%E4%B8%AA%E6%95%85%E4%BA%8B/"/>
-    <url>/2021/02/28/%E4%B8%80%E4%B8%AA%E6%95%85%E4%BA%8B/</url>
+    <title>&lt;在唐诗里孤独漫步&gt;笔记</title>
+    <link href="/2021/03/18/%E5%9C%A8%E5%94%90%E8%AF%97%E9%87%8C%E5%AD%A4%E7%8B%AC%E6%BC%AB%E6%AD%A5-%E7%AC%94%E8%AE%B0/"/>
+    <url>/2021/03/18/%E5%9C%A8%E5%94%90%E8%AF%97%E9%87%8C%E5%AD%A4%E7%8B%AC%E6%BC%AB%E6%AD%A5-%E7%AC%94%E8%AE%B0/</url>
     
-    <content type="html"><![CDATA[<p>顺手牵羊</p><p>我一脚踩到冬天上</p>]]></content>
+    <content type="html"><![CDATA[]]></content>
     
     
     
